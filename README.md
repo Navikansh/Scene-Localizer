@@ -8,9 +8,8 @@
 - **Natural Language Understanding**: Uses CLIP embeddings to align text and image features.
 - **Multiple Approaches Implemented**:
   1. **YOLO-based Detection** – Fast object localization using pre-trained YOLO models.
-  2. **Gradient-Inspired Sliding Frame** – Moves a frame across the image, maximizing cosine similarity with the query.
   3. **CMA-ES Multi-Frame Search** – Optimizes multiple candidate frames simultaneously using evolutionary strategies.
-  4. **Attention-Augmented Frame Scoring** – (Experimental) Improves localization by weighting features with attention.
+  4. **Attention-Augmented Frame Scoring** – (Under Progress) Improves localization by weighting features with attention.
 
 ---
 
